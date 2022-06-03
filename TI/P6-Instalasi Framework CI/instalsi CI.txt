@@ -1,0 +1,4 @@
+1. download ci => https://www.codeigniter.com/download
+2. extract folder dan remane folder
+3. pindahkan folder ke xampp htdocs
+4. buka browser dan ketilk localhost/nama_folder
